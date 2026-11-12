@@ -1,0 +1,9 @@
+streamlit
+python-docx
+pypdf
+transformers
+torch
+sentencepiece
+protobuf
+safetensors
+huggingface_hub
